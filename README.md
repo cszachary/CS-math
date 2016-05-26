@@ -33,4 +33,4 @@ python lm.py
 python svm.py
 ```
 ![](https://github.com/cszachary/CS-math/blob/master/hw5/pic/figure_2.png)
-**zachary zhang, 2016**
+- **zachary zhang, 2016**
