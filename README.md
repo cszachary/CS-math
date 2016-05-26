@@ -8,7 +8,7 @@ This is assignment of Applied Mathematics for CS in Zhejiang University. Codes a
 - sympy
 
 ==
-## Examples and Results
+## Examples
 - Regression 
 ```
 python poly_regression.py
