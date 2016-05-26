@@ -18,10 +18,12 @@ python poly_regression.py
 ```
 python digits_pca.py
 ```
+![](https://github.com/cszachary/CS-math/blob/master/hw2/pic/figure_2.png)
 - GMM
 ```
 python mog.py
 ```
+![](https://github.com/cszachary/CS-math/blob/master/hw3/pic/GMM_20iter.png)
 - L-M algorithm
 ```
 python lm.py
@@ -30,4 +32,5 @@ python lm.py
 ```
 python svm.py
 ```
+![](https://github.com/cszachary/CS-math/blob/master/hw5/pic/figure_2.png)
 **zachary zhang, 2016**
