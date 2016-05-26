@@ -6,6 +6,7 @@ This is assignment of Applied Mathematics for CS in Zhejiang University. Codes a
 - matplotlib
 - scipy
 - sympy
+
 ==
 ## Examples and Results
 - python poly_regression.py
