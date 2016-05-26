@@ -13,8 +13,7 @@ This is assignment of Applied Mathematics for CS in Zhejiang University. Codes a
 ```
 python poly_regression.py
 ```
-- Result
-![](https://github.com/cszachary/CS-math/hw1/pic/figure2.png)
+![](https://github.com/cszachary/CS-math/blob/master/hw1/pic/figure_2.png)
 - PCA
 ```
 python digits_pca.py
